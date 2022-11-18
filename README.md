@@ -6,18 +6,18 @@
   <a href="https://logto.io" target="_blank" align="center" alt="Logto Logo">
     <img src="./logo.png" height="100">
   </a>
-</p>
+</p>  
 
 [![discord](https://img.shields.io/discord/965845662535147551?color=5865f2&label=discord)](https://discord.gg/vRvwuwgpVX)
 [![checks](https://img.shields.io/github/checks-status/logto-io/logto/master)](https://github.com/logto-io/logto/actions?query=branch%3Amaster)
 [![release](https://img.shields.io/github/v/release/logto-io/logto?color=7958FF)](https://github.com/logto-io/logto/releases)
 [![core coverage](https://img.shields.io/codecov/c/github/logto-io/logto?label=core%20coverage)](https://app.codecov.io/gh/logto-io/logto)
 [![gitpod](https://img.shields.io/badge/gitpod-available-f09439)](https://gitpod.io/#https://github.com/logto-io/demo)
-[![render](https://img.shields.io/badge/render-deploy-5364e9)](https://render.com/deploy?repo=https://github.com/logto-io/logto)
+[![render](https://img.shields.io/badge/render-deploy-5364e9)](https://render.com/deploy?repo=https://github.com/logto-io/logto) 
 
-Logto[^info] helps you build the sign-in, auth, and user identity within minutes.
+Logto[^info] helps you build the sign-in, auth, and user identity within minutes. 
 
-🧑‍💻 **A frontend-to-backend identity solution**
+🧑‍💻 **A frontend-to-backend identity solution** 
 
 - A delightful sign-in experience for end-users and an OIDC-based identity service.
 - Web and native SDKs that can integrate your apps with Logto quickly.
@@ -26,7 +26,7 @@ Logto[^info] helps you build the sign-in, auth, and user identity within minutes
 
 - A centralized place to customize the user interface and then LIVE PREVIEW the changes you make.
 - Social sign-in for multiple platforms (GitHub, Google, WeChat, Alipay, etc.).
-- Dynamic passcode sign-in (via SMS or email).
+- Dynamic passcode sign-in (via SMS or email). 
 
 💻 **Fully open-sourced, while no identity knowledge is required to use**
 
